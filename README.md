@@ -38,4 +38,4 @@ https://stackoverflow.com/questions/13517080/sum-a-csv-column-in-python
 100 Days of Data: Data analysis from a CSV file in Python: 
 https://www.100daysofdata.com/python-csv-data-analysis
 
-TA assistance (Sunil and Simon) with logic correction and formatting problems 
+TA assistance Sunil and tutorer Simon with logic correction and formatting problems 
