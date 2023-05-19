@@ -28,13 +28,14 @@ After script has been completed, the python script has also printed out the resu
 The following are resources and links used to help with the creation of these scripts
 
 Course Slides and Practice Assignments 
-Stack Overflow : Row count in a csv file - 
+
+Stack Overflow : Row count in a csv file: 
 https://stackoverflow.com/questions/27504056/row-count-in-a-csv-file
 
-Stack Overflow : Sum a csv column in python - 
+Stack Overflow : Sum a csv column in python:
 https://stackoverflow.com/questions/13517080/sum-a-csv-column-in-python
 
-100 Days of Data: Data analysis from a CSV file in Python - 
+100 Days of Data: Data analysis from a CSV file in Python: 
 https://www.100daysofdata.com/python-csv-data-analysis
 
 TA assistance (Sunil and Russell) with logic correction and formatting problems 
