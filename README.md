@@ -1,6 +1,6 @@
 # Module 3 Assignment
 
-This project is a demonstration of the use of python scripting to organize and analyze two distinct csv files one titled PyBank and the other titled PyPoll
+This project is a demonstration of the use of python scripting to organize and analyze two distinct csv files one titled PyBank and the other titled PyPoll. The repositroy was intially created blank, and pulled and populated before finished results were  pushed onto GitHub using GitBash.
 
 # PyBank
 PyBank project is a python scipt importing and analysising the csv file "budget_data.csv" to determine the following:
