@@ -27,7 +27,7 @@ After script has been completed, the python script has also printed out the resu
 # Resources
 The following are resources and links used to help with the creation of these scripts
 
-Bootcamp Recordings, Slides and Practice Assignments 
+Bootcamp Recordings, Slides and Practice Assignments - Week 3
 
 Stack Overflow : Row count in a csv file: 
 https://stackoverflow.com/questions/27504056/row-count-in-a-csv-file
